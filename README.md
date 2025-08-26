@@ -13,10 +13,7 @@ You can check out the live demo of Rapid WhatsApp [here](https://vishesh-pandey.
 
 To get started with Rapid WhatsApp, follow these steps:
 
-1. Clone this repository using `git clone https://github.com/Vishesh-Pandey/rapid-whatsapp.git`
+1. Clone this repository using `git clone https://github.com/prasanna-kuracha/Rapid-Whatsapp`
 2. Install dependencies using `npm install`
 3. Run the app using `npm start`
 
-## Contributing
-
-If you would like to contribute to Rapid WhatsApp, please feel free to fork this repository and submit a pull request. Contributions are always welcome and appreciated.
